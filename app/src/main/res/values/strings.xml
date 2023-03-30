@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Codelabs</string>
+    <string name="invitado">Invitado</string>
+    <string name="registrar">Registrar</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="regresar">Regresar</string>
+</resources>
